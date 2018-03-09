@@ -1,0 +1,86 @@
+.flex-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  wra
+}
+
+.flex-justify-right {
+  justify-content: right;
+}
+
+.flex-justify-left {
+  justify-content: left;
+}
+
+.flex-justify-center {
+  justify-content: center;
+}
+
+.flex-justify-end {
+  justify-content: flex-end;
+}
+
+.margin {
+  margin: 2%;
+}
+
+.margin-left {
+  margin-left: 2%;
+}
+
+.margin-right {
+  margin-right: 2%;
+}
+
+.padding {
+  padding: 2%;
+}
+
+.border {
+  border: 1px;
+}
+
+.bgcolor {
+  background-color: #e21717;
+}
+
+.flexbox1 {
+  padding: 5%;
+}
+
+.padding-top {
+  padding-top: 10%
+}
+
+.padding-left {
+  padding-left: 95%
+}
+
+.padding-right {
+  95%
+}
+
+.padding-bottom {
+  padding-bottom: 10%
+}
+
+.bgcolorbox {
+  background-color: #1647e7
+}
+
+.border {
+  border: solid 2px black;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.img {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/e/e5/Seine_wide.jpg) top left/cover;
+}
