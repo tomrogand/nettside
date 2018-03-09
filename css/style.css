@@ -106,6 +106,7 @@ li a:hover {
 .flexcontainer1 {
   background-color: #4976b5;
   display: flex;
+  flex-shrink: 1;
   height: 150px;
   max-width: 400px;
   text-align: center;
@@ -125,6 +126,7 @@ li a:hover {
 .flexcontainer2 {
   background-color: #4976b5;
   display: flex;
+  flex-shrink: 1;
   height: 150px;
   max-width: 300px;
   text-align: center;
@@ -142,6 +144,20 @@ li a:hover {
 }
 
 .centercontent {
-margin-left: 5%;
-margin-right: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+
 }
+
+
+/*V FLEX TESTING V*/
+
+.flex-row{
+  display: flex;
+  flex-direction: row;
+  }
+
+  .flex-column{
+    display: flex;
+    flex-direction: column;
+    }
